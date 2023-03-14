@@ -148,3 +148,4 @@ cython_debug/
 .pkl
 *.pkl
 *.nii
+*.hdf5
